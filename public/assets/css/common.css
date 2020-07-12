@@ -1,0 +1,26 @@
+
+
+.box-profile{
+	height: 270px;
+}
+label.error {
+	font-size: 12px;
+	color: red;
+}
+.profile-user-img{
+	height: 150px!important;
+	width: 150px!important;
+}
+.user-panel img{
+	height: 50px!important;
+	width: 50px!important;
+}
+.required-span{
+	color: red;
+}
+.dataTables_filter{
+	float: right!important;
+}
+ul.nav.nav-treeview .nav-item {
+	margin-left: 15px;
+}
