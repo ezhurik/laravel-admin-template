@@ -8,12 +8,12 @@ I have used Admin LTE template is a popular open source WebApp template for admi
 This project provide the following features <br>
 -> login <br>
 -> Admin profile <br>
-	-> admin details are prefilled in the admin form <br>
-	-> can edit the deatils with profile pic too <br>
-	-> jquery validations applied <br>
+	&emsp;-> admin details are prefilled in the admin form <br>
+	&emsp;-> can edit the deatils with profile pic too <br>
+	&emsp;-> jquery validations applied <br>
 -> Customer module <br>
-	-> listing customers with search, pagination and sorting <br>
-	-> add, update and delete customers along with laravel validations <br>
+	&emsp;-> listing customers with search, pagination and sorting <br>
+	&emsp;-> add, update and delete customers along with laravel validations <br>
 
 So whenever you wanna setup a fresh laravel project just download it, setup the database and you are ready to work with the main logic.
 Hope it will help laravel developers to some extend.
