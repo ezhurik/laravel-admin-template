@@ -1,9 +1,10 @@
 Stop wasting time setting up basic things in laravel for admin panels
 
-For the guys who are wasting out time there setting up admin templates every time when a new project comes up, 
+For the guys who don't wanna waste time out there setting up admin templates every time when a new project comes up, 
 here I present you a basic template which you just have to download it and tweak it as you wish.
 
-I have used Admin LTE template is a popular open source WebApp template for admin dashboards.
+Note : I have used Admin LTE template is a popular open source WebApp template for admin dashboards.
+       Also uploaded sql file named 'laravel_admin.sql'.
 
 This project provide the following features <br>
 -> login <br>
